@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Xin chào 👋 こんにちは
 
-<h1 align="center">Hi 👋, I'm Quang Huy Chu</h1>
+<h1 align="center">I'm Quang Huy Chu</h1>
 <h3 align="center">A PhD student at Japan Advanced Institute of Science and Technology (JAIST)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cqhofsns" alt="cqhofsns" /></a> </p>

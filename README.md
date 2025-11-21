@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cqhofsns" alt="cqhofsns" /></a> </p>
 
-- 🌱 I’m currently learning **about enhancing Reasoning for Large Language Models.**
+- 🩺 Medical Explanation with Language Model
 
 - 📫 How to reach me **cqhofsns@gmail.com**
 

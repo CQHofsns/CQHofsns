@@ -1,23 +1,79 @@
 ## Hi there 👋 Xin chào 👋 こんにちは
 
-<h1 align="center">I'm Quang Huy Chu</h1>
-<h3 align="center">A PhD candidate at Japan Advanced Institute of Science and Technology (JAIST)</h3>
+<h1 align="center">Quang Huy Chu</h1>
+<h3 align="center">PhD Candidate in Artificial Intelligence</h3>
+<h4 align="center">Japan Advanced Institute of Science and Technology (JAIST)</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cqhofsns" alt="cqhofsns" /></a> </p>
+---
 
-- 🩺 Medical Explanation with Language Model
+## 🧠 Research Interests
 
-- 📫 How to reach me **cqhofsns@gmail.com**
+- Large Language Models (LLMs)
+- Small Language Models (SLMs)
+- Explainable AI (XAI)
+- Medical AI and Clinical NLP
+- Tool-augmented reasoning systems
+- Knowledge-augmented language models
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🔬 Current Research
+
+- Medical explanation generation using language models
+- Improving reasoning capabilities of small language models
+- External tool integration (knowledge graphs, symbolic systems)
+- Trustworthy and explainable AI systems
+
+---
+
+## 🏆 GitHub Achievements
+
 <p align="left">
-<a href="https://twitter.com/quanghuy_chu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quanghuy_chu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/qhchu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qhchu" height="30" width="40" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=cqhofsns&theme=flat&no-frame=true&margin-w=8&v=1" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cqhofsns&show_icons=true&locale=en&layout=compact" alt="cqhofsns" /></p>
+## 📊 GitHub Statistics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cqhofsns&" alt="cqhofsns" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqhofsns&layout=compact&langs_count=8&v=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cqhofsns&v=1" />
+</p>
+
+---
+
+## 🛠 Technical Stack
+
+<p align="left">
+Python • PyTorch • Scikit-learn • PostgreSQL • Docker • Linux • OpenCV • AWS
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://twitter.com/quanghuy_chu">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
+</a>
+
+<a href="https://linkedin.com/in/qhchu">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+</a>
+</p>
+
+---
+
+## 📫 Contact
+
+Email: **cqhofsns@gmail.com**
+
+---
+
+## 🎯 Research Vision
+
+Building trustworthy, explainable, and efficient language models for real-world high-stakes applications such as healthcare.
